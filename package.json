@@ -13,7 +13,7 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-scripts": "5.0.0",
-    "chart.js": "^3.9.1"  // Updated the version for compatibility improvements
+    "chart.js": "^3.9.1" // Updated the version for compatibility improvements
   },
   "devDependencies": {},
   "license": "MIT"
